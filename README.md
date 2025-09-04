@@ -87,7 +87,7 @@ We persist a **Context Card** (destination, dates/season, party, budget, prefs).
 
 - Default model: `LLM_MODEL=llama3`
 - Ollama endpoint: `OLLAMA_BASE=http://localhost:11434`
-- Edit in `.env` or environment variables. A `.env.example` is provided.
+- Edit in `.env` or environment variables.
 
 ---
 
