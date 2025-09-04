@@ -2,7 +2,7 @@
 
 A small, **conversation‑first** travel assistant focused on **prompt engineering**, **context management**, and **data augmentation** (weather + country info).
 
-- Interface: **CLI** (Typer)
+- Interface: **CLI**
 - LLM: **Ollama** (default, local & free). Tested with `llama3`.
 - External APIs:
   - **Open‑Meteo** (no key) for weather
