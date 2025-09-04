@@ -32,7 +32,7 @@ pip install -r requirements.txt
 3) Run the CLI:
 
 ```bash
-python -m app.main --session demo
+python -m app.main --session test
 ```
 
 Then chat freely. Examples:
