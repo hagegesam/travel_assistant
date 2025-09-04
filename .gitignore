@@ -2,4 +2,17 @@
 .DS_Store
 Thumbs.db
 
-.venv
+
+# IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+venv/
+
+# Local state
+session_state.json
